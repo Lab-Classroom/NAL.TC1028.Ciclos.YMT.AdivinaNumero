@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Hello World!
+# Adivina el número
 Básico-Hello World
 
 El programa contiene el siguiente código
